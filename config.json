@@ -4,7 +4,7 @@
     "hnzy": {
       "api": "http://hongniuzy2.com/api.php/provide/vod",
       "name": "红牛资源",
-      "detail": ""http://hongniuzy2.com"
+      "detail": "http://hongniuzy2.com/api.php/provide/vod/from/hnm3u8"
     },
     "liangziziy": {
       "api": "http://cj.lziapi.com/api.php/provide/vod",
